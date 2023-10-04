@@ -37,7 +37,7 @@ const HotelDetails = ({
           className={classNames(
             "flex items-center justify-center w-6 h-6 bg-white rounded-full",
             {
-              "bg-green-400": isFavorite,
+              "bg-green-800": isFavorite,
             }
           )}
         >
