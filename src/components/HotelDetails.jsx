@@ -56,9 +56,7 @@ const HotelDetails = ({
         </div>
         <div className="sticky bottom-0 flex items-center justify-start h-10 text-sm bg-white">
           ₹{price}
-          <span className="text-xs text-gray-200 text-gray-300">
-            /night (all incl.)
-          </span>
+          <span className="text-xs text-gray-300">/night (all incl.)</span>
         </div>
       </div>
     </div>
