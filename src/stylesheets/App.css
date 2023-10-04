@@ -1,0 +1,14 @@
+.search-input {
+  border: 1px solid rgb(208, 208, 208);
+  border-radius: 6px;
+  width: 100%;
+  padding: 8px;
+  font-size: 0.75rem;
+}
+
+.chip {
+  font-size: 0.5rem;
+  border: 1px solid rgb(208, 208, 208);
+  border-radius: 20px;
+  padding: 4px;
+}
