@@ -35,9 +35,9 @@ const HotelDetails = ({
         <button
           onClick={handleFavoriteHotel}
           className={classNames(
-            "flex items-center justify-center w-6 h-6 bg-white rounded-full ",
+            "flex items-center justify-center w-6 h-6 bg-white rounded-full",
             {
-              "bg-green-300": isFavorite,
+              "bg-green-400": isFavorite,
             }
           )}
         >
